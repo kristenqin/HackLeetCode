@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Add Two Numbers",
+      "path": "笔记/2. Add Two Numbers.md"
+    },
+    {
       "basename": "0. DataStructureAlgorithms",
       "path": "笔记/0. DataStructureAlgorithms.md"
     },
     {
-      "basename": "2. Add Two Numbers",
-      "path": "笔记/2. Add Two Numbers.md"
+      "basename": "Drawing 2022-07-22 23.42.34.excalidraw",
+      "path": "仓库/Drawing 2022-07-22 23.42.34.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-07-21 08.32.04.excalidraw",
+      "path": "仓库/Drawing 2022-07-21 08.32.04.excalidraw.md"
     },
     {
       "basename": "Pasted image 20220721180927",
@@ -19,10 +27,6 @@
     {
       "basename": "Pasted image 20220721114738",
       "path": "附件/Pasted image 20220721114738.png"
-    },
-    {
-      "basename": "Drawing 2022-07-21 08.32.04.excalidraw",
-      "path": "仓库/Drawing 2022-07-21 08.32.04.excalidraw.md"
     }
   ],
   "omittedPaths": [],

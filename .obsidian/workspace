@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "a9296116cd528f7e",
+    "id": "9c9e30a63e2356ff",
     "type": "split",
     "children": [
       {
-        "id": "5ec71cfb54300c75",
+        "id": "6d2f7f91430bbed9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "笔记/2. Add Two Numbers.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b65d28f9cee49ca7",
+    "id": "9eca3ba0f3adb2cb",
     "type": "split",
     "children": [
       {
-        "id": "c67f7c0e60d82c24",
+        "id": "7715a9069b6fad83",
         "type": "tabs",
         "children": [
           {
-            "id": "0c468a12159001c4",
+            "id": "44fdfe53d0c089d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "842947a162c5fb4b",
+            "id": "2b4d37b337baa134",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "e846d297daa7e09a",
+            "id": "ed285a6901ae5fce",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,37 +57,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 300
   },
   "right": {
-    "id": "5c00622e47bed8a4",
+    "id": "da8e93a884fab840",
     "type": "split",
     "children": [
       {
-        "id": "5d2f59c63bb10a1a",
+        "id": "81325dba695ccb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "74ee6c3a8edaffbc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b177cc7484fb34d9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c5fd3b9e284f234",
+            "id": "81153dc7a9bce1dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/2. Add Two Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +84,18 @@
             }
           },
           {
-            "id": "bf9e44eac4b6ea9c",
+            "id": "92b4399e37ec89e0",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "笔记/2. Add Two Numbers.md"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32c73f25dfe3320a",
+            "id": "d2dcd31e0fc56b63",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,35 +106,20 @@
             }
           },
           {
-            "id": "e55ca7c43b48204f",
+            "id": "3aa605057d81dc7e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "笔记/2. Add Two Numbers.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "outline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 136,
+    "width": 300,
     "collapsed": true
   },
-  "active": "5ec71cfb54300c75",
-  "lastOpenFiles": [
-    "笔记/0. DataStructureAlgorithms.md",
-    "仓库/Drawing 2022-07-22 23.42.34.excalidraw.md",
-    "笔记/2. Add Two Numbers.md",
-    "仓库/Drawing 2022-07-21 08.32.04.excalidraw.md",
-    "笔记/Pasted image 20220721084016.png.md",
-    "附件/Pasted image 20220721084016.png.md",
-    "附件/Pasted image 20220721180927.png",
-    "附件/Pasted image 20220721115012.png",
-    "附件/Pasted image 20220721114738.png",
-    "日记/2022-07-21.md"
-  ]
+  "active": "6d2f7f91430bbed9",
+  "lastOpenFiles": []
 }
